@@ -1,6 +1,6 @@
 # ignore config files
 .env
-.clients
+.clients.json
 
 # ignore virtual environment
 .venv

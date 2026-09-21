@@ -1,0 +1,15 @@
+[
+{
+    "clients": {
+        "class_of_clients_1": {
+            "nested_class_1": {
+                "email": "example@domain.com",
+                "properties" : {
+                    "property1": "value",
+                    "property2": "value"
+                }
+            }
+        }
+    }
+}
+]

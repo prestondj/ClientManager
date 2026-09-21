@@ -1,0 +1,1 @@
+lightweightmailing==0.2.1b1
