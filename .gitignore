@@ -1,0 +1,13 @@
+# ignore config files
+.env
+.clients
+
+# ignore virtual environment
+.venv
+
+# ignore compiled python
+__pycache__/
+
+# ignore test files
+tester.py
+testing.py
